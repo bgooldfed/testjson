@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "text": "John Smith"
+    },
+    {
+      "id": 2,
+      "text": "Brodie Goold"
+    },
+    {
+      "id": 3,
+      "text": "Mathew Morton"
+    }
+  ],
+  "pagination": {
+    "more": true
+  }
+}
